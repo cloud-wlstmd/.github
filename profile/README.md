@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41a0094b-e96e-488e-b940-fecfaa0b86ee" alt="profile">
-  <br><br>
+  <img src="https://github.com/user-attachments/assets/832d2f08-c0be-428d-a9ad-8688172a0afb" alt="profile">
   <p align="center"> - ☘️ wlstmd Cloud Computing Zip - </p>
 </p>
